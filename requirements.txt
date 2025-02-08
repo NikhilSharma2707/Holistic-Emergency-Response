@@ -1,0 +1,16 @@
+numpy
+tensorflow
+scikit-learn
+pandas
+seaborn
+matplotlib
+opencv-python
+mediapipe
+fastapi
+uvicorn
+# For CSV handling (standard library, no need to include)
+# csv
+
+# Utils and model modules (assumed to be custom, not external libraries)
+# utils
+# model
