@@ -18,7 +18,7 @@ const Navbar = () => {
           <div className="flex items-center">
             <Link to="/" className="flex items-center space-x-2">
               <HandWaving className="h-8 w-8 text-blue-600" />
-              <span className="text-xl font-bold text-gray-900">GestureAI</span>
+              <span className="text-xl font-bold text-gray-900">HER</span>
             </Link>
           </div>
           <div className="flex items-center space-x-4">
